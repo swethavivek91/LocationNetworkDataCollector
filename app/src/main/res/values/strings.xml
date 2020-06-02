@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GPSLocationLogging</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="close_ui">CLOSE_UI</string>
+    <string name="start_service">START SERVICE</string>
+</resources>
